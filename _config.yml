@@ -1,0 +1,14 @@
+layout_spectrum: 0.6298492469359189
+typography_spectrum: 0.2115615897346288
+color:
+  brandStrength: 0.38104706001468003
+  lightness: 0.25413259165361524
+  saturation: 0.8861513456795365
+  rhythmicContrast: 0.15455726138316095
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Techstatic
